@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-First things first we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
+First things first, we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
   
 ![image](https://github.com/IbrahimBerikaa/OsTicket-Installation/assets/167066492/a0a65a2f-3895-41ec-ab16-b9f65111ce1f)
 </p>
